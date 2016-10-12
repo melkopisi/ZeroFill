@@ -12,7 +12,12 @@ I advise you to repeat this action at least 3 times and change the filling metho
 -----------
 ![screenshot1](https://morad-edwar.com/zerofill_1.png?screenshot=true)
 ![screenshot2](https://morad-edwar.com/zerofill_2.png?screenshot=true)
+
+## for non developer users you can download the APK Directly from [here](https://drive.google.com/open?id=0BxJkpPnuBv2SYTlRdVRUcVlRcnc)
+
 ## Contact ME
 ----------
 * Email : [me@morad-edwar.com](me@morad-edwar.com)
 * Website :  [https://www.morad-edwar.com](https://www.morad-edwar.com)
+
+
